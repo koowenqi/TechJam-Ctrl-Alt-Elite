@@ -115,7 +115,7 @@ It depends on the trained checkpoint file produced by main file (model.pth)
   ```
 ---
 
-##  What you need on hand
+##  Necessities
 
 | Item | Description |
 |---|---|
@@ -196,7 +196,7 @@ It reports raw probabilities so results can be thresholded or reviewed as needed
 
 ---
 
-##  Preprocessing details (for reference — handled automatically)
+##  Preprocessing details
 
 Images are preprocessed identically to how the model was validated during
 training:
